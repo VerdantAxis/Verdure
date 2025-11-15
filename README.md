@@ -1,7 +1,7 @@
 # Verdure
  Game Engine \
  built in cpp , vulkan \
- based on robotberry's bamboo code \
+ based on robotberry's bamboo code 
 
 ## Roadmap & TODO
 
