@@ -1,7 +1,7 @@
 # Verdure
- Game Engine ,
- built in cpp uses vulkan ,
- based on robotberry's bamboo code
+ -Game Engine ,
+ -built in cpp uses vulkan ,
+ -based on robotberry's bamboo code
 
 ## Roadmap & TODO
 
@@ -25,3 +25,6 @@
 - [ ] Run game in "preview mode" in editor without recompiling code (compiling is for release only)
 
 ---
+#Note
+
+-The code will be uploaded along with the release of version 2 after work on it is completed
