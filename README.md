@@ -14,7 +14,7 @@
 - [ ] Better logging
 - [x] Fix compilation errors with modern compilers
 - [x] Linux support
-- [ ] macOS and Windows untested -- plan to ensure safety with better debugging and error handling
+- [ ] Windows untested -- plan to ensure safety with better debugging and error handling
 - [ ] Scripting API
 - [ ] Use latest version of dependencies and libraries
 - [ ] Better rendering and performance
