@@ -25,7 +25,3 @@
 - [ ] Run game in "preview mode" in editor without recompiling code (compiling is for release only)
 
 ---
-
-**Usage:**  
-- Check items as you implement them by changing `[ ]` to `[x]`.
-- Add, remove, or edit items to suit your development process.
