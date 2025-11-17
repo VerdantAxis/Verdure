@@ -24,10 +24,10 @@
 - [ ] Integrated code editor in editor
 - [ ] Run game in "preview mode" in editor without recompiling code (compiling is for release only)
 - [ ] project system and project launcher
-- [ ] fixing critical safety problems with the editor
+- [ ] fixing critical problems with the editor
 - [ ] ui system (in game)
 
-      ---
+----
 # Note
 
 The code will be uploaded along with the release of version 2 after work on it is completed
